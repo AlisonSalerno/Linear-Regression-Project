@@ -8,8 +8,8 @@ The target variable assessed was a popularity score for each song. The explantor
 
 Contents of this project repository:
 
-  1.Data Folder: all csvs stored here and pkled data post cleaning 
-  2.Notebooks Folder: all work in progress notebooks - cleaning, EDA, Modeling
-  3.Final.ipynb - final project notebook
-  4.Presention - copy of final presentation deck
+  1. Data Folder: all csvs stored here and pkled data post cleaning 
+  2. Notebooks Folder: all work in progress notebooks - cleaning, EDA, Modeling
+  3. Final.ipynb - final project notebook
+  4. Presention - copy of final presentation deck
 
