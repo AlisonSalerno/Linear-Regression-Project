@@ -33,7 +33,7 @@ After my EDA and running a baseline linear regression model, I applied polynomia
 
 ## Conclusion
 
-My final model wasn’t as predictive as I had hoped, explaining only 28% (R-squared) of the amount of variation in song popularity. However, after analyzing my coefficients, there were a few takeaways to be noted. The following features had the most positive and negative impact on popularity.
+My final model which utilized Lasso feature selection on all 85 features (transformed song elements and original features) wasn’t as predictive as I had hoped, explaining only 28% (R-squared) of the amount of variation in song popularity. However, after analyzing my coefficients, there were a few takeaways to be noted. The following features had the most positive and negative impact on popularity.
 
 Most positive:
 - Number of years since release
