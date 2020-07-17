@@ -2,17 +2,22 @@
 
 Through linear regression modeling, this project aims to predict the popularity of a song. 
 
-## The Datset 
+## The Dataset 
 
 The final dataset used in this project was a compilation of a 2,000 song Spotify dataset sourced from Kaggle along with additional data gathered from API requests to Spotify's API via Spotipy.   
 
 The **target variable** assessed was a popularity score for each song. 
-- From Spotify's documentation, the popularity score is generated from a calculation of number of plays and how recent those plays were.
+- From Spotify's documentation - the popularity score is a calculation of number of plays and how recent those plays were.
 - I wanted to see if song and artist elements could predict the popularity score. 
 
 The **explantory variables** covered a range of characteristics on each song, from specific audio features like BPM, valence and duration, to more categorical data such as, genre, year released and artist follower count. 
 
 ## EDA 
+
+<img src="/images/targetdist.png" width="550">
+
+<img src="/images/correlationheat.png" width="550">
+
 
 ## Feature Engineering - Polynomial Transformation
 
