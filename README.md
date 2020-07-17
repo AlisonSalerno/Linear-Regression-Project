@@ -14,9 +14,17 @@ The **explantory variables** covered a range of characteristics on each song, fr
 
 ## EDA 
 
+Target Distribution: 
+
 <img src="/images/targetdist.png" width="550">
 
-<img src="/images/correlationheat.png" width="550">
+Correlation heatmap: 
+
+<img src="/images/correlationheat.png" width="1000">
+
+Numerical Feature Distribution: 
+
+<img src="/images/featdist.png" width="1000">
 
 
 ## Feature Engineering - Polynomial Transformation
