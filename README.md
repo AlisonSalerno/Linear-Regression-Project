@@ -44,6 +44,8 @@ Most negative:
 - Indie Genre
 - Acousticness & Speechiness
 
+After testing out a Decision Tree and Random Forest regressor, I can also conclude that the data is better explained by a non-linear regression model. 
+
 ## Contents of this project repository:
 
   1. Data Folder: all csvs stored here and pkled data post cleaning 
