@@ -46,7 +46,7 @@ Most negative:
 
 After testing out a Decision Tree and Random Forest regressor, I can also conclude that the data is better explained by a non-linear regression model. 
 
-## Contents of this project repository:
+## Contents of this project repository
 
   1. Data Folder: all csvs stored here and pkled data post cleaning 
   2. Notebooks Folder: all work in progress notebooks - cleaning, EDA, Modeling
